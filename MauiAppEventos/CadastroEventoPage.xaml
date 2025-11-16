@@ -4,7 +4,8 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     x:Class="MauiAppEventos.CadastroEventoPage"
     xmlns:sys="clr-namespace:System;assembly=System.Runtime"
-    Title="Cadastro de Evento">
+    Title="Cadastro de Evento"
+        BackgroundColor="Black">
 
     <ScrollView>
         <VerticalStackLayout Padding="20" Spacing="10">
